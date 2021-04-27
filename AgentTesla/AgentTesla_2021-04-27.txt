@@ -1,0 +1,61 @@
+Main object- "PaymentAdvice.exe"
+	sha256	1a912965cb32d547e15282d11d1251c5fd89a5d2714a198ca26c2ad8597865bb	
+	sha1	5d4b7dfe41af1808fa888507d227b51e7108df39	
+	md5	8480fe6d99e0054aeb143b194eab946b	
+Dropped executable file
+	sha256	C:\Users\admin\AppData\Local\Temp\nseD652.tmp\nelld5.dll	270c5573646393ab13ca51a6cffaeaf9f57b1be9ea584014be35c3c3fb1676a8	
+DNS requests
+	domain	www.prulib.com	
+	domain	www.highsiddityminks.com	
+	domain	www.dajiangzhibo12.com	
+	domain	www.unmanglement.com	
+	domain	www.pwjol.com	
+	domain	highsiddityminks.com	
+	domain	www.thehealthierdonut.com	
+	domain	www.bornforbetterthings.com	
+	domain	www.droplites.com	
+	domain	www.vtz6whu5254xb1.xyz	
+	domain	www.profoundai.net	
+	domain	www.crossfut.net	
+	domain	www.deltaeleveight.com	
+	domain	draftsofsilence.com	
+	domain	www.draftsofsilence.com	
+	domain	www.saturnkorp.net	
+	domain	www.weatherdekniagara.com	
+	domain	futebolfitness.com.br	
+Connections
+	ip	172.67.212.23	
+	ip	23.227.38.74	
+	ip	23.227.38.65	
+	ip	34.202.122.77	
+	ip	107.186.80.174	
+	ip	104.21.63.118	
+	ip	217.26.52.40	
+	ip	154.90.117.58	
+	ip	75.126.101.233	
+	ip	49.156.179.238	
+	ip	208.91.197.39	
+HTTP/HTTPS requests
+	url	http://www.prulib.com/c22b/?GPFPs=YQBIqih5yA1ob2fhCCtShpTf4JSj25yX38b3n9lSmTmQB9RM6SGQWeJEd1w=&YlS4Kj=XPiHZN2p
+	url	http://www.dajiangzhibo12.com/c22b/?GPFPs=5+EjqSwLsNSOBut2DJIwjNuki1nPzn2WfN0f4n/A1nA2YXphutTpxc/hiLU=&YlS4Kj=XPiHZN2p
+	url	http://www.thehealthierdonut.com/c22b/?GPFPs=xVPPe3yM1qW1l22ekpVyRFFiH57DwPgvXeRYU0B+FJcVCvXyBydBXTOFOD4=&YlS4Kj=XPiHZN2p
+	url	http://www.highsiddityminks.com/c22b/?GPFPs=mrUUkohX3rhAvYNg+mSAS2CvF43bm4xJv0ECDwJA0zffsyLmjxR+EG43k/Q=&YlS4Kj=XPiHZN2p
+	url	http://www.crossfut.net/c22b/?GPFPs=D/+FWh52BTD7pJQJCyDrfP91ezvSU3lmlcLIY14HlPUIa7A4WnIRspaXo38=&YlS4Kj=XPiHZN2p
+	url	http://www.pwjol.com/c22b?GPFPs=AvT2B12YptdJYO07Zu+Y2n5h298IzrYCwzhd3VnVEtihtLBHTMUfyUJV4oc=&YlS4Kj=XPiHZN2p
+	url	http://www.draftsofsilence.com/c22b/?GPFPs=junmvEXOHlQ4A0xl3ljsgAaTxiDijp1pEI3D1BO6t96PBa1maIyEzCvKVzg=&YlS4Kj=XPiHZN2p
+	url	http://www.pwjol.com/c22b/?GPFPs=AvT2B12YptdJYO07Zu+Y2n5h298IzrYCwzhd3VnVEtihtLBHTMUfyUJV4oc=&YlS4Kj=XPiHZN2p
+	url	http://www.weatherdekniagara.com/c22b/?GPFPs=5zxUybLzCtDoz2j4kxBFdVWreK1CSXwvJz6kN8M8ScNUTZ3jNGQJh6zZ7ns=&YlS4Kj=XPiHZN2p
+	url	http://www.saturnkorp.net/c22b/?GPFPs=IngE1hC2CTr+rgYJzwheuQ4ABgAGAsEfCrT5hV9Mc8dJpZPhgFSr4J2y9RU=&YlS4Kj=XPiHZN2p
+	url	http://www.profoundai.net/c22b/?GPFPs=rpIKAzmToBzv9Xafyj+TGZo0GkcVk4hvDSOGLhGwNsT8ullfsWxaMEQx8KA=&YlS4Kj=XPiHZN2p
+	url	http://www.unmanglement.com/c22b/?GPFPs=SZiv1Cu3DCg0Q3Vnnn5ZLbcWCJQi367u53ErGw24291uFOFG0AWf9AeRauo=&YlS4Kj=XPiHZN2p
+	url	http://www.vtz6whu5254xb1.xyz/c22b/?GPFPs=5ho6ncU+1QRVKoxLk831vYHCH4/kodbR9mPkAEMOqtSrD397MC3XIdynVnA=&YlS4Kj=XPiHZN2p
+	url	http://www.vtz6whu5254xb1.xyz/c22b?GPFPs=5ho6ncU+1QRVKoxLk831vYHCH4/kodbR9mPkAEMOqtSrD397MC3XIdynVnA=&YlS4Kj=XPiHZN2p
+	url	http://www.bornforbetterthings.com/c22b/?GPFPs=nwIIBFO1+TcQP8Zc0uxcYSEYC11rKLJCO7/mF1CUzGUL+p0YZrp458ALQ90=&YlS4Kj=XPiHZN2p
+
+
+
+
+
+
+
+
